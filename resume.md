@@ -1,7 +1,7 @@
 <center>
 David A Timm
-============
-<center>E: timmmeister@gmail.com T: (303) 652-7177</center>
+=================
+E: timmmeister@gmail.com T: (303) 652-7177</center>
 
 
 Technical Skills
@@ -13,11 +13,16 @@ Technical Skills
 
 Experience
 ----------
+### **Contractor**: 2017 @ Udacity Blitz
+* Product design consulting for a chatbot
+* Use Python/Tensorflow to create NLP models
+* Deploy models via Google Cloud
+
 ### **Development Team Leader**: 2015 - Present @ CAD Management Inc.
 * Created, developed, and launched a hydraulic flow analysis package for Revit
-* Led business adoption of Agile workflow
 * Extensive C++ MFC and C#.NET WPF development
-* Converted Visual Source Safe 2005 codebase to git/Team Services
+* Led adoption of Agile methods and conversion to git
+* Refactored a C++ codebase ~50 kloc into C#
 
 ### **Technician**: 2011 - 2015 @ Denver Public Schools
 * Support educational technology initiatives throughout the district
@@ -33,7 +38,6 @@ Education
 * Completed 12-month curriculum in two months.
 
 ### **A.S. Gunsmithing**: 2010 - 2011 @ Colorado School of Trades
-* Covered everything from butt-plates to hand-loading in 14 months
 * TIG and OA welding
 * Mill and lathe operation (set your feeds and speeds!)
 * Woodworking and finishing
