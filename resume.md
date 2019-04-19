@@ -1,24 +1,29 @@
-<center>
 David A Timm
 =================
-E: timmmeister@gmail.com T: (303) 652-7177</center>
-
+E: timmmeister@gmail.com T: (303) 652-7177
 
 Technical Skills
 ----------------
-* C#.NET, C++, MFC, Crystal Reports, and Visual Studio
+* C#.NET, C++, golang, and Visual Studio
 * Agile and git
 * Python, Pandas, NumPy, and Tensorflow
 * UNIX/Linux development tools
 
 Experience
 ----------
+### **Senior Software Engineer**: 2018 - Present @ Pivotal Software
+* Cloud research and development projects around monitoring and observability
+* Scalable monitoring components for Knative
+* Examples:
+    * github.com/pivotal/monitoring-indicator-protocol
+    * github.com/pivotal-cf/observability
+
 ### **Contractor**: 2017 @ Udacity Blitz
 * Product design consulting for a chatbot
 * Use Python/Tensorflow to create NLP models
 * Deploy models via Google Cloud
 
-### **Development Team Leader**: 2015 - Present @ CAD Management Inc.
+### **Development Team Leader**: 2015 - 2018 @ CAD Management Inc.
 * Created, developed, and launched a hydraulic flow analysis package for Revit
 * Extensive C++ MFC and C#.NET WPF development
 * Led adoption of Agile methods and conversion to git
