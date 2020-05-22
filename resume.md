@@ -11,12 +11,12 @@ Technical Skills
 
 Experience
 ----------
-### **Senior Software Engineer**: 2018 - Present @ Pivotal Software
+### **Senior Software Engineer**: 2018 - Present @ Pivotal Software/VMware
 * Cloud research and development projects around monitoring and observability
-* Scalable monitoring components for Knative
+* Metrics and logging in Kubernetes and other cloud platforms
 * Examples:
     * github.com/pivotal/monitoring-indicator-protocol
-    * github.com/pivotal-cf/observability
+    * github.com/cloudfoundry/metric-proxy
 
 ### **Contractor**: 2017 @ Udacity Blitz
 * Product design consulting for a chatbot
