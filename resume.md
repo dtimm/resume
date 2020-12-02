@@ -1,13 +1,14 @@
 David A Timm
 =================
-E: timmmeister@gmail.com T: (303) 652-7177
+E: dtimm@protonmail.com T: (303) 652-7177
 
 Technical Skills
 ----------------
-* C#.NET, C++, golang, and Visual Studio
-* Agile and git
-* Python, Pandas, NumPy, and Tensorflow
-* UNIX/Linux development tools
+* Golang, cloud backend engineering
+* Experience with many infrasructure providers (GCP, AWS, Azure, vSphere)
+* Kubernetes logging and metrics
+* C#.NET, C++, and Visual Studio
+* Moderate exposure to full-stack and machine learning development and tooling
 
 Experience
 ----------
@@ -36,6 +37,11 @@ Experience
 
 Education
 ---------
+### **B.S. Biochemistry**: 2019 - Current @ Arizona State University
+* Currently in half-time degree program
+* Estimated graduation 2023
+* Oh wow it's really neat!
+
 ### **Machine Learning Nanodegree**: 2016 @ Udacity
 * Coursework in Python, Pandas, NumPy, and scikit-learn
 * Project-based learning with a final capstone
