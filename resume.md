@@ -15,6 +15,7 @@ Experience
 ### **Senior Software Engineer**: 2018 - Present @ Pivotal Software/VMware
 * Cloud research and development projects around monitoring and observability
 * Metrics and logging in Kubernetes and other cloud platforms
+* Release engineering and orchestration
 * Examples:
     * github.com/pivotal/monitoring-indicator-protocol
     * github.com/cloudfoundry/metric-proxy
@@ -46,6 +47,7 @@ Education
 * Coursework in Python, Pandas, NumPy, and scikit-learn
 * Project-based learning with a final capstone
 * Implemented Normalized Advantage Functions in Tensorflow from <https://arxiv.org/abs/1603.00748>
+    * github.com/dtimm/mlnd-openai-gym
 * Completed 12-month curriculum in two months.
 
 ### **A.S. Gunsmithing**: 2010 - 2011 @ Colorado School of Trades
