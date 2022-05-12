@@ -13,12 +13,15 @@ Technical Skills
 Experience
 ----------
 ### **Senior Software Engineer**: 2018 - Present @ Pivotal Software/VMware
-* Cloud research and development projects around monitoring and observability
+* Cloud R&D projects around monitoring and observability
 * Metrics and logging in Kubernetes and other cloud platforms
-* Release engineering and orchestration
+* Developed and launched a business analytics dashboard to 200+ internal users
+* Release engineering and orchestration of a large, self-hosted cloud product
+    * Product with $10+ million in ARR
+    * Release security patches, major updates, and upgrade tooling
 * Examples:
-    * github.com/pivotal/monitoring-indicator-protocol
-    * github.com/cloudfoundry/metric-proxy
+    * [Indicator Protocol](https://github.com/pivotal/monitoring-indicator-protocol) and [patent](https://patents.google.com/patent/US11240127B1/en)
+    * [Metric Proxy](https://github.com/cloudfoundry/metric-proxy)
 
 ### **Contractor**: 2017 @ Udacity Blitz
 * Product design consulting for a chatbot
@@ -36,18 +39,17 @@ Experience
 * Hardware and software support for teachers and district staff
 * Warranty service for Promethean smart boards
 
+<div style="page-break-after: always;"></div>
 Education
 ---------
-### **B.S. Biochemistry**: 2019 - Current @ Arizona State University
+### **B.S. Astronomy and B.S. Biochemistry**: 2019 - Current @ Arizona State University
 * Currently in half-time degree program
-* Estimated graduation 2023
 * Oh wow it's really neat!
 
 ### **Machine Learning Nanodegree**: 2016 @ Udacity
 * Coursework in Python, Pandas, NumPy, and scikit-learn
 * Project-based learning with a final capstone
-* Implemented Normalized Advantage Functions in Tensorflow from <https://arxiv.org/abs/1603.00748>
-    * github.com/dtimm/mlnd-openai-gym
+* Implemented [Normalized Advantage Functions](https://arxiv.org/abs/1603.00748) in Tensorflow [[1](https://github.com/dtimm/mlnd-openai-gym)]
 * Completed 12-month curriculum in two months.
 
 ### **A.S. Gunsmithing**: 2010 - 2011 @ Colorado School of Trades
