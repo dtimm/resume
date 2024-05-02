@@ -36,6 +36,7 @@ Experience
 * Refactored a C++ codebase ~50 kloc into C#
 
 <div style="page-break-after: always;"></div>
+
 Education
 ---------
 ### **B.S. Astronomy and B.S. Biochemistry**: 2019 - Current @ Arizona State University
