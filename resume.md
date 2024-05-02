@@ -1,10 +1,10 @@
-David A Timm
+David Timm
 =================
 E: dtimm@protonmail.com T: (303) 652-7177
 
 Technical Skills
 ----------------
-* Golang, cloud backend engineering
+* Golang, Ruby, and Rust, cloud backend engineering
 * Experience with many infrasructure providers (GCP, AWS, Azure, vSphere)
 * Kubernetes logging and metrics
 * C#.NET, C++, and Visual Studio
@@ -12,7 +12,8 @@ Technical Skills
 
 Experience
 ----------
-### **Senior Software Engineer**: 2018 - Present @ Pivotal Software/VMware
+### **Senior Software Engineer**: 2018 - 2024 @ Pivotal Software/VMware
+* Secure software supply chain development for deployments
 * Cloud R&D projects around monitoring and observability
 * Metrics and logging in Kubernetes and other cloud platforms
 * Developed and launched a business analytics dashboard to 200+ internal users
@@ -28,16 +29,11 @@ Experience
 * Use Python/Tensorflow to create NLP models
 * Deploy models via Google Cloud
 
-### **Development Team Leader**: 2015 - 2018 @ CAD Management Inc.
+### **Development Team Leader**: 2015 - 2018 @ MEPCAD
 * Created, developed, and launched a hydraulic flow analysis package for Revit
 * Extensive C++ MFC and C#.NET WPF development
 * Led adoption of Agile methods and conversion to git
 * Refactored a C++ codebase ~50 kloc into C#
-
-### **Technician**: 2011 - 2015 @ Denver Public Schools
-* Support educational technology initiatives throughout the district
-* Hardware and software support for teachers and district staff
-* Warranty service for Promethean smart boards
 
 <div style="page-break-after: always;"></div>
 Education
