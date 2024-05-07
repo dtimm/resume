@@ -12,6 +12,12 @@ Technical Skills
 
 Experience
 ----------
+### **Founding Engineer**: Current @ Arcane Industries
+* Hardware smart device development
+* Rust on ESP32 microcontroller ecosystem
+* Communicating with multiple peripherals over I2C and I2S
+* Design for CNC in Fusion 360
+
 ### **Senior Software Engineer**: 2018 - 2024 @ Pivotal Software/VMware
 * Secure software supply chain development for deployments
 * Cloud R&D projects around monitoring and observability
