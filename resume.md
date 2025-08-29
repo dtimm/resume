@@ -8,35 +8,33 @@ Technical Skills
 * Experience with many infrasructure providers (GCP, AWS, Azure, vSphere)
 * Kubernetes logging and metrics
 * C#.NET, C++, and Visual Studio
-* Moderate exposure to full-stack and machine learning development and tooling
+* Familiar with React and TypeScript
 
 Experience
 ----------
+### **Staff Software Engineer**: 2024-2025 @ Productable
+* Startup in innovation technology
+* Drove adoption of test-driven development
+* Full-stack React/TypeScript frontend -> Golang backend
+* Secure deployment to DoD IL4 environment
+
 ### **Founding Engineer**: Current @ Arcane Industries
 * Hardware smart device development
 * Rust on ESP32 microcontroller ecosystem
 * Communicating with multiple peripherals over I2C and I2S
 * Design for CNC in Fusion 360
 
-### **Senior Software Engineer**: 2018 - 2024 @ Pivotal Software/VMware
+### **Senior Software Engineer**: 2018 - 2024 @ Pivotal Software/VMware/Broadcom
+* Developed and launched a business analytics dashboard to 200+ internal users
 * Secure software supply chain development for deployments
 * Cloud R&D projects around monitoring and observability
 * Metrics and logging in Kubernetes and other cloud platforms
-* Developed and launched a business analytics dashboard to 200+ internal users
 * Release engineering and orchestration of a large, self-hosted cloud product
     * Product with $10+ million in ARR
     * Release security patches, major updates, and upgrade tooling
-* Examples:
-    * [Indicator Protocol](https://github.com/pivotal/monitoring-indicator-protocol) and [patent](https://patents.google.com/patent/US11240127B1/en)
-    * [Metric Proxy](https://github.com/cloudfoundry/metric-proxy)
-
-### **Contractor**: 2017 @ Udacity Blitz
-* Product design consulting for a chatbot
-* Use Python/Tensorflow to create NLP models
-* Deploy models via Google Cloud
 
 ### **Development Team Leader**: 2015 - 2018 @ MEPCAD
-* Created, developed, and launched a hydraulic flow analysis package for Revit
+* Created, developed, and launched a hydraulic flow analysis package for Autodesk Revit
 * Extensive C++ MFC and C#.NET WPF development
 * Led adoption of Agile methods and conversion to git
 * Refactored a C++ codebase ~50 kloc into C#
@@ -45,8 +43,9 @@ Experience
 
 Education
 ---------
-### **B.S. Astronomy and B.S. Biochemistry**: 2019 - Current @ Arizona State University
-* Currently in half-time degree program
+### **B.S. Astronomy and B.S. Biochemistry**: 2019 - 2023 @ Arizona State University
+* 4.0 GPA after 100+ credits
+* Currently on hold because I moved across the country
 * Oh wow it's really neat!
 
 ### **Machine Learning Nanodegree**: 2016 @ Udacity
